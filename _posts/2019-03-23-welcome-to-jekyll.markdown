@@ -7,31 +7,20 @@ categories: intro
 
 
 ## About Me
-I am an Assistant Professor in the [School of Electrical Engineering] at KAIST (Korea Advanced Institute of Science and Technology). I was an Applied Scientist at Adobe [Firefly], and a Postdoctoral Fellow at the [Yale Institute for Foundations of Data Science] (FDS). I obtained my Ph.D. degree in the School of Electrical Engineering at KAIST, where I was advised by [Jinwoo Shin]. I received an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. In 2019, I was fortunate to be a recipient of [Microsoft Research Asia Fellowship 2019]. In 2024, with Amin Karbasi and Amir Zandieh, we were selected as recipients of 2024 [Roberts Innovation Fund Award] for research on making AI more powerful and cost-effective.
+I am an Ph.D. student in the [School of Electrical Engineering] at KAIST (Korea Advanced Institute of Science and Technology). I obtained my M.S. degree in the School of Electrical Engineering at Gwangju Institute of Science and Technology, where I was advised by [Euiseok Hwang]. I received a B.S. in Systems Management Engineering of from sungkyunkwan university. My research interests focus on reinforcement learning and analysis for machine learning and its applications.
 
 Here is my [CV] (Last update: Jun 2023).
 
 <br/>
 ## Contact
-Email : insu.han@kaist.ac.kr <br/>
-Office: N1 914, 291 Daehak-ro, Daejeon, South Korea 
+Email : dsa950115@gm.gist.ac.kr <br/>
+Office: RISE Bldg #208, 12, Seomun-daero 749beonma-gil, Nam-gu, Gwangju, Republic of Korea
 
 [School of Electrical Engineering]: https://ee.kaist.ac.kr/
-[Firefly]: https://firefly.adobe.com/
-[Yale Institute for Foundations of Data Science]: https://fds.yale.edu/
-[Amin Karbasi]: http://iid.yale.edu/
-[Jinwoo Shin]: http://alinlab.kaist.ac.kr/shin.html
+[Euiseok Hwang]: https://iis.gist.ac.kr/isp/
 [CV]: https://www.dropbox.com/s/p7co802hdvgkguh/cv_2023.pdf?dl=0
-[Roberts Innovation Fund Award]: https://ventures.yale.edu/2023-2024-roberts-awards 
 <!-- 
 <br/>
-## Awards
------
-I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
--->
-
-[Microsoft Research Asia Fellowship 2019]: https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/ 
-
 
 <br/>
 ## Publications
@@ -177,11 +166,6 @@ International Conference on Machine Learning (ICML) 2015
 [gjl_paper]: https://arxiv.org/pdf/2406.03482
 
 <br/>
-## Research experiences
------
-
-- **[Summer 2019]** Research intern at Google New York City with [Jennifer Gillenwater] <br/>
-- **[Spring 2018]** Visting student at Tel Aviv University with [Haim Avron] <br/>
 
 [Jennifer Gillenwater]: http://jgillenw.com/
 [Haim Avron]: http://www.math.tau.ac.il/~haimav/
