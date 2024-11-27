@@ -9,7 +9,7 @@ categories: intro
 ## About Me
 I am an Ph.D. student in the [School of Electrical Engineering] at KAIST (Korea Advanced Institute of Science and Technology). I obtained my M.S. degree in the School of Electrical Engineering at Gwangju Institute of Science and Technology, where I was advised by [Euiseok Hwang]. I received a B.S. in Systems Management Engineering of from sungkyunkwan university. My research interests focus on reinforcement learning and analysis for machine learning and its applications.
 
-Here is my [CV] (Last update: Jun 2023).
+Here is my [CV] (Last update: Nov 2024).
 
 <br/>
 ## Contact
@@ -24,112 +24,18 @@ Office: RISE Bldg #208, 12, Seomun-daero 749beonma-gil, Nam-gu, Gwangju, Republi
 ## Publications
 -----
 
-**QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead** <br/>
-[[paper][gjl_paper]{:target="_blank"}]<br/>
-Amir Zandieh, Majid Daliri, <U>Insu Han</U> <br/>
-Under Review
-<br/>
-	
 **Geomixup: Robust Radio Frequency Based Indoor Localization Leveraging Geographic Information** <br/>
-[[paper][cell2sen_paper]{:target="_blank"}]<br/>
+[[paper][icc_paper]{:target="_blank"}]<br/>
 <U>Minseok Jeong<U>, Giup Seo, Euiseok Hwang <br/>
 IEEE International Conference on Communications Workshops (ICC Workshops) 2024
 <br/>
-
-**SubGen: Token Generation in Sublinear Time and Memory** <br/>
-[[paper][subgen_paper]{:target="_blank"}]<br/>
-Amir Zandieh\*, <ins>Insu Han</ins>\*, Vahab Mirrokni, Amin Karbasi (\*Equal contribution)<br/> 
-Under Review
-<br/>
-
-**HyperAttention: Long-context Attention in Near-Linear Time** <br/>
-[[paper][hyperattn_paper]{:target="_blank"}]<br/>
-(α-β) <U>Insu Han</U>, Rajesh Jayaram, Amin Karbasi, Vahab Mirrokni, David P. Woodruff, Amir Zandieh<br/>
-International Conference on Learning Representations (ICLR) 2024
-<br/>
-
-**Near Optimal Reconstruction of Spherical Harmonic Expansions** <br/>
-[[paper][gegen_recon_paper]{:target="_blank"}]<br/>
-Amir Zandieh, <U>Insu Han</U>, Haim Avron<br/>
-Advances in Neural Information Processing Systems (NeurIPS) 2023
-<br/>
-
-**KDEformer: Accelerating Transformers via Kernel Density Estimation** <br/>
-[[paper][kdeformer_paper]{:target="_blank"}] <br/>
-Amir Zandieh, <ins>Insu Han</ins>\*, Majid Daliri\*, Amin Karbasi (\*Equal contribution)<br/>
-International Conference on Machine Learning (ICML) 2023
-<br/>
-
-
-**Fast Neural Kernel Embeddings for General Activations** <br/>
-[[paper][fast_neural_kernel_paper]{:target="_blank"}][[code][fast_neural_kernel_code]{:target="_blank"}, also implemented in [Neural Tangents]{:target="_blank"} library]<br/>
-<U>Insu Han</U>, Amir Zandieh, Jaehoon Lee, Roman Novak, Lechao Xiao, Amin Karbasi<br/>
-Advances in Neural Information Processing Systems (NeurIPS) 2022
-<br/>
-
-**Scalable MCMC Sampling for Nonsymmetric Determinantal Point Processes** <br/>
-[[paper][kndpp_mcmc_sampling_paper]{:target="_blank"}][[code][kndpp_mcmc_sampling_code]{:target="_blank"}] <br/>
-<U>Insu Han</U>, Mike Gartrell, Elvis Dohmatob, Amin Karbasi<br/>
-International Conference on Machine Learning (ICML) 2022, Long Presentation (118/5630=2%)
-<br/>
-
-**Random Gegenbauer Features for Scalable Kernel Methods** <br/>
-[[paper][gegen_rf_paper]{:target="_blank"}]<br/>
-<U>Insu Han</U>\*, Amir Zandieh\*, Haim Avron (\*Equal contribution)<br/>
-International Conference on Machine Learning (ICML) 2022, Long Presentation (118/5630=2%)
-<br/>
-
-**Scalable Sampling for Nonsymmetric Determinantal Point Processes** <br/>
-[[paper][ndpp_sampling_paper]{:target="_blank"}][[code][ndpp_sampling_code]{:target="_blank"}]<br/>
-<U>Insu Han</U>, Mike Gartrell, Jennifer Gillenwater, Elvis Dohmatob, Amin Karbasi<br/>
-International Conference on Learning Representations (ICLR) 2022, Spotlight Presentation
-<br/>
-
-
-**Scaling Neural Tangent Kernels via Sketching and Random Features** <br/>
-[[paper][ntk_paper]{:target="_blank"}][[code][ntk_rf_code]{:target="_blank"}]<br/>
-Amir Zandieh\*, <U>Insu Han</U>\*, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin(\*Equal contribution)<br/>
-Advances in Neural Information Processing Systems (NeurIPS) 2021
-<br/>
-
-**Scalable Learning and MAP Inference for Nonsymmetric Determinantal Point Processes** <br/>
-[[paper][ndpp_paper]][[code][ndpp_code]]<br/>
-Mike Gartrell, <U>Insu Han</U>, Elvis Dohmatob, Jennifer Gillenwater and Victor-Emmanuel Brunel <br/>
-International Conference on Learning Representations (ICLR) 2021, Oral Presentation (58/2997=1.8%)
-<br/>
-
-**Polynomial Tensor Sketch for Element-wise Function of Low-Rank Matrix** <br/>
-[[paper][poly_paper]][[code][poly_code]]<br/>
-<U>Insu Han</U>, Haim Avron and Jinwoo Shin <br/>
-International Conference on Machine Learning (ICML) 2020
-<br/>
-
-**MAP Inference for Customized Determinantal Point Processes via Maximum Inner Product Search** <br/>
-[[paper][fastdppmap_aistats20]][[code][dppmips_code]]<br/>
-<U>Insu Han</U> and Jennifer Gillenwater <br/>
-International Conference on Artificial Intelligence and Statistics (AISTATS) 2020
-<br/>
-
-**Stochastic Chebyshev Gradient Descent for Spectral Optimization** <br/>
-[[paper][specopt_paper]][[poster][specopt_poster]][[video][specopt_video]]<br/>
-<U>Insu Han</U>, Haim Avron and Jinwoo Shin <br/>
-Neural Information Processing Systems (NeurIPS) 2018, Spotlight Presentation (168/4856=3.5%)
-
-**Faster Greedy MAP Inference for Determinantal Point Processes** <br/>
-[[paper][fastdpp_paper]][[code][fastdpp_code]][[video][fastdpp_video]]<br/>
-<U>Insu Han</U>, Prabhanjan Kambadur, Kyoungsoo Park and Jinwoo Shin <br/>
-International Conference on Machine Learning (ICML) 2017
-
-**Approximating Spectral Sums of Large-scale Matrices using Stochastic Chebyshev Approximations** <br/>
-[[paper][specsum_paper]]<br/>
-<U>Insu Han</U>, Dmitry Malioutov, Haim Avron and Jinwoo Shin <br/>
-SIAM Journal on Scientific Computing (SISC) 2017
 
 **Large-scale Log-determinant Computation through Stochastic Chebyshev Expansions** <br/>
 [[paper][logdet_paper]][[code][logdet_code]][[video][logdet_video]]<br/>
 <U>Insu Han</U>, Dmitry Malioutov, and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2015
 
+[icc_paper]:https://ieeexplore.ieee.org/abstract/document/10615700
 [subgen_paper]:https://arxiv.org/pdf/2402.06082.pdf
 [Neural Tangents]: https://github.com/google/neural-tangents
 [kndpp_mcmc_sampling_paper]:https://arxiv.org/pdf/2207.00486.pdf
