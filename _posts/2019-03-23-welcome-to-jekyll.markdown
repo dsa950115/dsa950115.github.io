@@ -18,9 +18,7 @@ Office: RISE Bldg #208, 12, Seomun-daero 749beonma-gil, Nam-gu, Gwangju, Republi
 
 [School of Electrical Engineering]: https://ee.kaist.ac.kr/
 [Euiseok Hwang]: https://iis.gist.ac.kr/isp/
-[CV]: https://www.dropbox.com/s/p7co802hdvgkguh/cv_2023.pdf?dl=0
-<!-- 
-<br/>
+[CV]: https://www.dropbox.com/scl/fi/xbu5evf90kjpcq2w5zenm/cv.pdf?rlkey=jq5zzsrzb8cqx2609nkmlquv4&st=tfylmeoz&dl=0
 
 <br/>
 ## Publications
@@ -32,10 +30,10 @@ Amir Zandieh, Majid Daliri, <U>Insu Han</U> <br/>
 Under Review
 <br/>
 	
-**Cell2Sentence: Teaching Large Language Models the Language of Biology** <br/>
+**Geomixup: Robust Radio Frequency Based Indoor Localization Leveraging Geographic Information** <br/>
 [[paper][cell2sen_paper]{:target="_blank"}]<br/>
-Daniel Levine, Syed A Rizvi, Sacha Lévy, Nazreen Pallikkavaliyaveetil, David Zhang, Xingyu Chen, Sina Ghadermarzi, Ruiming Wu, Zihe Zheng, Ivan Vrkic, Anna Zhong, Daphne Raskin, <U>Insu Han</U>, Antonio Henrique de Oliveira Fonseca, Josue Ortega Caro, Amin Karbasi, Rahul Madhav Dhodapkar, David van Dijk<br/>
-International Conference on Machine Learning (ICML) 2024
+<U>Minseok Jeong<U>, Giup Seo, Euiseok Hwang <br/>
+IEEE International Conference on Communications Workshops (ICC Workshops) 2024
 <br/>
 
 **SubGen: Token Generation in Sublinear Time and Memory** <br/>
