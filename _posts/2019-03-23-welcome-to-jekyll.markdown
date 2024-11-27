@@ -7,7 +7,7 @@ categories: intro
 
 
 ## About Me
-I am an Ph.D. student in the [School of Electrical Engineering] at KAIST (Korea Advanced Institute of Science and Technology). I obtained my M.S. degree in the School of Electrical Engineering and Computer Science at GIST (Gwangju Institute of Science and Technology), where I was advised by [Euiseok Hwang]. I received a B.S. in Systems Management Engineering of from sungkyunkwan university. My research interests focus on reinforcement learning and analysis for machine learning and its applications.
+I am an Ph.D. student in the [School of Electrical Engineering] at KAIST (Korea Advanced Institute of Science and Technology). I obtained my M.S. degree in the School of Electrical Engineering and Computer Science at GIST (Gwangju Institute of Science and Technology), where I was advised by [Euiseok Hwang]. I received a B.S. in Systems Management Engineering of from SungKyunKwan University. My research interests focus on reinforcement learning and analysis for machine learning and its applications.
 
 Here is my [CV] (Last update: Nov 2024).
 
@@ -70,6 +70,7 @@ IEEE International Conference on Big Data (poster) 2022
 [hyperattn_paper]: https://arxiv.org/pdf/2310.05869.pdf
 [cell2sen_paper]: https://openreview.net/pdf?id=EWt5wsEdvc
 [gjl_paper]: https://arxiv.org/pdf/2406.03482
+<br/>
 
 ## Awards
 Best poster Award, School of Electrical Engineering and Computer Science, GIST
