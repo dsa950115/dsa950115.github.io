@@ -30,12 +30,14 @@ Office: RISE Bldg #208, 12, Seomun-daero 749beonma-gil, Nam-gu, Gwangju, Republi
 IEEE International Conference on Communications Workshops (ICC Workshops) 2024
 <br/>
 
-**Large-scale Log-determinant Computation through Stochastic Chebyshev Expansions** <br/>
-[[paper][logdet_paper]][[code][logdet_code]][[video][logdet_video]]<br/>
-<U>Insu Han</U>, Dmitry Malioutov, and Jinwoo Shin <br/>
-International Conference on Machine Learning (ICML) 2015
+**Age of Information Optimization by Deep Reinforcement Learning for Random Access in Machine Type Communication** <br/>
+[[paper][bigdata_paper]{:target="_blank"}]<br/>
+<U>Minseok Jeong</U>, Giup Seo, Euiseok Hwang <br/>
+IEEE International Conference on Big Data (poster) 2022
+<br/>
 
 [icc_paper]:https://ieeexplore.ieee.org/abstract/document/10615700
+[bigdata_paper]:https://ieeexplore.ieee.org/xpl/conhome/10020192/proceeding
 [subgen_paper]:https://arxiv.org/pdf/2402.06082.pdf
 [Neural Tangents]: https://github.com/google/neural-tangents
 [kndpp_mcmc_sampling_paper]:https://arxiv.org/pdf/2207.00486.pdf
