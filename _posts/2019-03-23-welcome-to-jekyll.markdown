@@ -7,7 +7,7 @@ categories: intro
 
 
 ## About Me
-I am an Ph.D. student in the [School of Electrical Engineering] at KAIST (Korea Advanced Institute of Science and Technology). I obtained my M.S. degree in the School of Electrical Engineering and Computer Science at GIST (Gwangju Institute of Science and Technology), where I was advised by [Euiseok Hwang]. I received a B.S. in Systems Management Engineering of from SungKyunKwan University. My research interests focus on reinforcement learning and analysis for machine learning and its applications.
+I am an Ph.D. student in the [School of Electrical Engineering] at KAIST (Korea Advanced Institute of Science and Technology). I obtained my M.S. degree in the School of Electrical Engineering and Computer Science at GIST (Gwangju Institute of Science and Technology), where I was advised by [Euiseok Hwang]. I received a B.S. in Systems Management Engineering of from Sungkyunkwan University. My research interests focus on reinforcement learning and analysis for machine learning and its applications.
 
 Here is my [CV] (Last update: Nov 2024).
 
