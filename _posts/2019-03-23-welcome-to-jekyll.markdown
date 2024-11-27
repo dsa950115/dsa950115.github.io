@@ -25,7 +25,7 @@ Office: RISE Bldg #208, 12, Seomun-daero 749beonma-gil, Nam-gu, Gwangju, Republi
 -----
 
 **Geomixup: Robust Radio Frequency Based Indoor Localization Leveraging Geographic Information** <br/>
-[[paper][icc_paper]{:target="_blank"}]<br/>
+[[paper][icc_paper]]<br/>
 <U>Minseok Jeong<U>, Giup Seo, Euiseok Hwang <br/>
 IEEE International Conference on Communications Workshops (ICC Workshops) 2024
 <br/>
