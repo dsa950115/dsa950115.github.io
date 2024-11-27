@@ -37,7 +37,7 @@ IEEE International Conference on Big Data (poster) 2022
 <br/>
 
 [icc_paper]:https://ieeexplore.ieee.org/abstract/document/10615700
-[bigdata_paper]:https://ieeexplore.ieee.org/xpl/conhome/10020192/proceeding
+[bigdata_paper]:https://ieeexplore.ieee.org/document/10020660
 [subgen_paper]:https://arxiv.org/pdf/2402.06082.pdf
 [Neural Tangents]: https://github.com/google/neural-tangents
 [kndpp_mcmc_sampling_paper]:https://arxiv.org/pdf/2207.00486.pdf
