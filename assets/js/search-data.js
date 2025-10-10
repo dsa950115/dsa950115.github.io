@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-paper-mitigating-instability-in-high-residual-adaptive-sampling-for-pinns-via-langevin-dynamics-has-been-accepted-to-neurips-2025-as-a-spotlight-presentation-688-out-of-21-575-submissions-top-3-2",
-          title: '🎉📄 My paper “Mitigating Instability in High Residual Adaptive Sampling for PINNs via...',
+            },},{id: "news-neurips-2025-spotlight-presentation-mitigating-instability-in-high-residual-adaptive-sampling-for-pinns-via-langevin-dynamics-688-out-of-21-575-submissions-top-3-2",
+          title: 'NeurIPS 2025, Spotlight Presentation 🎉 “Mitigating Instability in High Residual Adaptive Sampling for...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
