@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: minseok.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am **Minseok Jeong**, a Ph.D. student at [KAIST ACSS Lab](http://acss.kaist.ac.kr/) under the supervision of Prof. Sujin Han.  
+I received my B.S. in Industrial Engineering from **Sungkyunkwan University**, and my M.S. in Electrical and Electronic Engineering from **GIST**, where I worked in the [IIS Lab](https://iis.gist.ac.kr/isp/) with Prof. Euiseok Hwang.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in understanding complex dynamical systems through **linearization and stochastic modeling**, and leveraging the insights that emerge from this perspective.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In particular, I am interested in exploring how desirable properties of stochastic systems can be utilized across various subfields:
+- **Machine Learning & Optimization**: randomized algorithms such as Langevin dynamics and randomized embeddings  
+- **Decision Making under Uncertainty**: conformal prediction, stochastic control  
+- **Statistical Learning Theory**: understanding the sample complexity and generalization of algorithms  
