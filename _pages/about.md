@@ -9,9 +9,12 @@ profile:
   image: minseok.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Here is my LinkedIn <a href="https://www.linkedin.com/in/minseok-jeong-635405207" target="_blank">
+        <i class="fab fa-linkedin"></i> </a>
+    </p>
+    <p>Here is my CV <a href="https://www.linkedin.com/in/minseok-jeong-635405207" target="_blank">
+        <i class="fab fa-linkedin"></i> </a>
+    </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
