@@ -5,5 +5,8 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Physics Informed":
+"Published":
   color: "#009f36"
+
+"Preprint":
+  color: "#8B0000"
