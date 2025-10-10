@@ -27,10 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.kaist.ac.kr/) under the supervision of Prof. Sujin Han.  
-I received my B.E. in System Management Engineering from **Sungkyunkwan University**, and my M.S. in Electrical and Electronic Engineering from **GIST**, where I worked in the [IIS Lab](https://iis.gist.ac.kr/isp/) with Prof. Euiseok Hwang.
+Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.kaist.ac.kr/) under the supervision of Prof. Sujin Han. I received my B.E. in System Management Engineering from **Sungkyunkwan University**, and my M.S. in Electrical and Electronic Engineering from **GIST**, where I worked in the [IIS Lab](https://iis.gist.ac.kr/isp/) with Prof. Euiseok Hwang.
 
-My research focuses on understanding complex **stochastic dynamical systems** through data-driven approaches and leveraging the insights gained from this perspective.  
+My research focuses on understanding complex **stochastic dynamical systems** through data-driven approaches.
 
 I am particularly interested in how the desirable properties of stochastic systems can be exploited across different subfields:
 - **Machine Learning & Optimization**: randomized algorithms such as Langevin dynamics and randomized embeddings  
