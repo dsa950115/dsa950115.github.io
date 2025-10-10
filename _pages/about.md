@@ -14,7 +14,7 @@ profile:
     <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,12 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am **Minseok Jeong**, a Ph.D. student at [KAIST ACSS Lab](http://acss.kaist.ac.kr/) under the supervision of Prof. Sujin Han.  
-I received my B.S. in Industrial Engineering from **Sungkyunkwan University**, and my M.S. in Electrical and Electronic Engineering from **GIST**, where I worked in the [IIS Lab](https://iis.gist.ac.kr/isp/) with Prof. Euiseok Hwang.
+Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.kaist.ac.kr/) under the supervision of Prof. Sujin Han.  
+I received my B.E. in System Management Engineering from **Sungkyunkwan University**, and my M.S. in Electrical and Electronic Engineering from **GIST**, where I worked in the [IIS Lab](https://iis.gist.ac.kr/isp/) with Prof. Euiseok Hwang.
 
-My research interests lie in understanding complex dynamical systems through **linearization and stochastic modeling**, and leveraging the insights that emerge from this perspective.  
+My research focuses on understanding complex **stochastic dynamical systems** through data-driven approaches and leveraging the insights gained from this perspective.  
 
-In particular, I am interested in exploring how desirable properties of stochastic systems can be utilized across various subfields:
+I am particularly interested in how the desirable properties of stochastic systems can be exploited across different subfields:
 - **Machine Learning & Optimization**: randomized algorithms such as Langevin dynamics and randomized embeddings  
-- **Decision Making under Uncertainty**: conformal prediction, stochastic control  
-- **Statistical Learning Theory**: understanding the sample complexity and generalization of algorithms  
+- **Decision Making under Uncertainty**: conformal prediction and stochastic control  
+- **Linearization Methods**: kernel approaches and Koopman operator theory
