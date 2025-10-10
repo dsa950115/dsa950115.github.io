@@ -10,19 +10,16 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>
-    <a href="https://www.linkedin.com/in/minseok-jeong-635405207" target="_blank">
-        <i class="fab fa-linkedin"></i>
-        Connect with me on LinkedIn
-    </a>
-</p>
+      <a href="https://www.linkedin.com/in/minseok-jeong-635405207" target="_blank">
+        <i class="fab fa-linkedin"></i> Connect with me on LinkedIn
+      </a>
+    </p>
 
-<p>
-    <a href="https://www.dropbox.com/scl/fi/p7h4ys60y4tn2kvcdowh9/MinseokCV_20251011.pdf?rlkey=52xwq0k12lnxbciu7pmipmpp7&st=2ywhyo7g&dl=0" target="_blank">
-        <i class="fas fa-file-alt"></i>
-        Download my CV (PDF)
-    </a>
-</p>
-
+    <p>
+      <a href="https://www.dropbox.com/scl/fi/p7h4ys60y4tn2kvcdowh9/MinseokCV_20251011.pdf?rlkey=52xwq0k12lnxbciu7pmipmpp7&st=2ywhyo7g&dl=0" target="_blank">
+        <i class="fas fa-file-alt"></i> Download my CV (PDF)
+      </a>
+    </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
