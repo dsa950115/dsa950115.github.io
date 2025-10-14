@@ -40,6 +40,6 @@ Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.
 My research focuses on understanding complex **stochastic dynamical systems** through data-driven approaches.
 
 I am particularly interested in how the desirable properties of stochastic systems can be exploited across different subfields:
-- **Machine Learning & Optimization**: randomized algorithms such as Langevin dynamics and randomized embeddings  
-- **Decision Making under Uncertainty**: conformal prediction and stochastic control
-- **Linearization Methods**: kernel approaches and Koopman operator theory
+- **Machine Learning & Optimization**: randomized algorithms such as Langevin dynamics and randomized embeddings
+- **Decision Making under Uncertainty**: conformal prediction and reinforcement learning
+- **Linearization Methods**: linear MDP, kernel method and Koopman operator theory
