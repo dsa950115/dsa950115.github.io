@@ -1,7 +1,7 @@
 ---
 ---
 
-@INPROCEEDINGS{koopman,
+@INPROCEEDINGS{koopman123,
   author={Jeong, Minseok, Han, SooJean},
   booktitle={Proceedings of the Learning for Dynamics and Control Conference (L4DC)}, 
   title={Scalable Infinitesimal Generator–Based Koopman Learning for Long-Horizon Prediction}, 
@@ -9,7 +9,6 @@
   abbr={Under review},
   preview={PIKN.png},
   selected={false},
-  note={Spotlight Presentation},
   abstract={Koopman operator theory provides a linear representation of nonlinear dynamics, offering strong potential for long-horizon prediction. However, most existing methods rely on snapshot-based one-step fitting and often suffer from error accumulation over extended rollouts. To address this issue, prior efforts have explored extending the training horizon or developing model-based approaches that leverage physics-informed formulations—such as infinitesimal generator fitting—to better exploit the underlying system dynamics. In this paper, we show that local transition fitting itself fundamentally limits long-horizon stability, whereas generator-based learning provides a more principled alternative. Despite their reliable advantages, generator-based learning schemes remain computationally demanding, as training dense MLP-based dictionaries with Jacobian computations is often intractable in practice. Building upon this line of work, we introduce a Random Fourier Feature–lifted Koopman formulation (RFF-PIKN) that employs shift-invariant RKHS representations for scalable and stable approximation, reducing computational cost under repeated resampling. We theoretically show that RFF-PIKN converges to a local minimizer of the true population generator risk, enabling accurate and stable long-horizon prediction. These results highlight the promise of RKHS-based physics-informed Koopman learning in advancing model-based prediction frameworks.}}
 
 @INPROCEEDINGS{mitigating2025,
@@ -21,6 +20,7 @@
   selected={true},
   annotation={* Equal contribution},
   preview={LAS.png},
+  note={Spotlight Presentation},
   abstract={Recently, physics-informed neural networks (PINNs) have gained attention in the scientific community for their potential to solve partial differential equations (PDEs). However, they face challenges related to resource efficiency and slow convergence. Adaptive sampling methods, which prioritize collocation points with high residuals, improve both efficiency and accuracy. However, these methods often neglect points with medium or low residuals, which can affect stability as the complexity of the model increases. In this paper, we investigate this limitation and show that high residual-based approaches require stricter learning rate bounds to ensure stability. To address this, we propose a Langevin dynamics-based Adaptive Sampling (LAS) framework that is robust to various learning rates and model complexities. Our experiments demonstrate that the proposed method outperforms existing approaches in terms of relative 
  error, and stability across a range of enviroments, including high-dimensional PDEs where Monte Carlo integration-based methods typically suffer from instability.}}
 
