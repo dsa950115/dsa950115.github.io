@@ -1,6 +1,16 @@
 ---
 ---
 
+@INPROCEEDINGS{koopman,
+  author={Jeong, Minseok, Han, SooJean},
+  booktitle={Proceedings of the Learning for Dynamics and Control Conference (L4DC)}, 
+  title={Scalable Infinitesimal Generator–Based Koopman Learning for Long-Horizon Prediction}, 
+  year={2026},
+  abbr={Under review},
+  preview={PIKN.png},
+  selected={false},
+  abstract={Koopman operator theory provides a linear representation of nonlinear dynamics, offering strong potential for long-horizon prediction. However, most existing methods rely on snapshot-based one-step fitting and often suffer from error accumulation over extended rollouts. To address this issue, prior efforts have explored extending the training horizon or developing model-based approaches that leverage physics-informed formulations—such as infinitesimal generator fitting—to better exploit the underlying system dynamics. In this paper, we show that local transition fitting itself fundamentally limits long-horizon stability, whereas generator-based learning provides a more principled alternative. Despite their reliable advantages, generator-based learning schemes remain computationally demanding, as training dense MLP-based dictionaries with Jacobian computations is often intractable in practice. Building upon this line of work, we introduce a Random Fourier Feature–lifted Koopman formulation (RFF-PIKN) that employs shift-invariant RKHS representations for scalable and stable approximation, reducing computational cost under repeated resampling. We theoretically show that RFF-PIKN converges to a local minimizer of the true population generator risk, enabling accurate and stable long-horizon prediction. These results highlight the promise of RKHS-based physics-informed Koopman learning in advancing model-based prediction frameworks.}}
+
 @INPROCEEDINGS{mitigating2025,
   author={Jeong*, Minseok and Seo*, Giup and Hwang, Euiseok},
   booktitle={Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)}, 
