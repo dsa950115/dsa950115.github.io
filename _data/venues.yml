@@ -8,5 +8,8 @@
 "Published":
   color: "#009f36"
 
+"Under review":
+  color: "#00369f"
+
 "Preprint":
   color: "#8B0000"
