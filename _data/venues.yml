@@ -7,9 +7,12 @@
 
 "Published":
   color: "#009f36"
+  text_color: "#ffffff"
 
 "Under review":
   color: "#00369f"
+  text_color: "#ffffff"
 
 "Preprint":
   color: "#8B0000"
+  text_color: "#ffffff"
