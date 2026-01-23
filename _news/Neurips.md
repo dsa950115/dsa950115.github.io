@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-**NeurIPS 2025, Spotlight Presentation** 🎉  
+**NeurIPS 2025, Spotlight** 🎉  
 *“Mitigating Instability in High Residual Adaptive Sampling for PINNs via Langevin Dynamics”*  
 (688 out of 21,575 submissions, top 3.2%)
