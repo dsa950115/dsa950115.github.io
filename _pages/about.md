@@ -16,7 +16,7 @@ profile:
     </p>
 
     <p>
-      <a href="https://www.dropbox.com/scl/fi/a50tcrysiy5rr7jcoycie/MinseokCV_20251023.pdf?rlkey=g9todwamkfmecazbso089lpie&st=ez4ngty2&dl=0" target="_blank">
+      <a href="https://www.dropbox.com/home?preview=MinseokCV_20260209.pdf" target="_blank">
         <i class="fas fa-file-alt"></i> Download my CV (PDF)
       </a>
     </p>
@@ -37,9 +37,4 @@ latest_posts:
 
 Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.kaist.ac.kr/) under the supervision of Prof. SooJean Han. I received my B.E. in System Management Engineering (Industrial Engineering) from **SKKU**, and my M.S. in Electrical and Electronic Engineering from **GIST**, where I worked in the [IIS Lab](https://iis.gist.ac.kr/isp/) with Prof. Euiseok Hwang.
 
-My research focuses on understanding complex **stochastic dynamical systems** through data-driven approaches.
-
-I am particularly interested in how the desirable properties of stochastic systems can be exploited across different subfields:
-- **Machine Learning & Optimization**: randomized algorithms such as Langevin dynamics and randomized embeddings
-- **Decision Making under Uncertainty**: conformal prediction and reinforcement learning
-- **Linearization Methods**: linear MDP, kernel method and Koopman operator theory
+My research develops structured representations that render complex stochastic dynamical systems amenable to linear analysis, enabling tractable learning, prediction, and control. I pursue principled approaches grounded in operator-theoretic and statistical learning frameworks to build reliable and scalable methods for decision making under uncertainty.
