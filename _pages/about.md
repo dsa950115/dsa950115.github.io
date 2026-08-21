@@ -39,4 +39,4 @@ Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.
 
 I develop **structured representations of controlled systems** for tractable learning, prediction, and control. My research is in **statistical learning theory**, particularly kernel methods and high-dimensional statistics.
 
-Current topics of interest include control-oriented Koopman models, vision-language-action (VLA) models, and uncertainty quantification.
+I’m currently interested in control-oriented Koopman models, vision-language-action (VLA) models, and uncertainty quantification.
