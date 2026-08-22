@@ -41,4 +41,8 @@ My research is guided by a **central question**:
 
 > *Can we uncover mathematical structure in reresentations of dynamical systems so that learning, prediction, and control become tractable and reliable?*
 
-I develop theoretically grounded methods for dynamical systems under uncertainty, focusing on **structured representations** and drawing on tools from **statistical learning theory**.
+I pursue this question through **theoretically grounded methods**, drawing on tools from **statistical learning theory**.
+
+My current research explores **control-oriented Koopman models**, **latent steering in vision-language-action (VLA) models**, and **novelty detection under distribution shift**.
+
+If any of these topics interest you, please feel free to reach out!
