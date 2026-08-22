@@ -35,7 +35,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.kaist.ac.kr/) under the supervision of Prof. SooJean Han. I received my B.E. in System Management Engineering (Industrial Engineering) from **SKKU**, and my M.S. in Electrical and Electronic Engineering from **GIST**, where I worked in the [IIS Lab](https://iis.gist.ac.kr/isp/) with Prof. Euiseok Hwang.
+Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.kaist.ac.kr/), advised by Prof. SooJean Han. I received my B.E. in System Management Engineering (Industrial Engineering) from SKKU and my M.S. in Electrical and Electronic Engineering from GIST, where I worked with Prof. Euiseok Hwang in the [IIS Lab](https://iis.gist.ac.kr/isp/).
 
 My research is guided by a central question:
 
