@@ -37,8 +37,8 @@ latest_posts:
 
 Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.kaist.ac.kr/) under the supervision of Prof. SooJean Han. I received my B.E. in System Management Engineering (Industrial Engineering) from **SKKU**, and my M.S. in Electrical and Electronic Engineering from **GIST**, where I worked in the [IIS Lab](https://iis.gist.ac.kr/isp/) with Prof. Euiseok Hwang.
 
-My research is guided by a simple question:
+My research is guided by a **central question**:
 
-> *Can we expose mathematical structure in reresentations so that learning, prediction, and control become tractable and reliable?*
+> *Can we uncover mathematical structure in reresentations so that learning, prediction, and control become tractable and reliable?*
 
 I develop theoretically grounded methods for dynamical systems and control under uncertainty, focusing on **structured representations** and drawing on tools from **statistical learning theory**.
