@@ -16,7 +16,7 @@ profile:
     </p>
 
     <p>
-      <a href="https://www.dropbox.com/scl/fi/sw67yxsn9wvfm0ccui58n/MinseokCV_20260528.pdf?rlkey=ekvt8sj8mvph9mlhbh5vsacwq&st=4wymr821&dl=0" target="_blank">
+      <a href="https://www.dropbox.com/scl/fi/bzz20z2sg1jscj4b1y15a/MinseokCV_20260822.pdf?rlkey=sc87vwc51ihbiicbvn983msz4&st=5fqvjfmf&dl=0" target="_blank">
         <i class="fas fa-file-alt"></i> Download my CV (PDF)
       </a>
     </p>
