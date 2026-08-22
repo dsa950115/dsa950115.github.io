@@ -37,12 +37,12 @@ latest_posts:
 
 Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.kaist.ac.kr/) under the supervision of Prof. SooJean Han. I received my B.E. in System Management Engineering (Industrial Engineering) from **SKKU**, and my M.S. in Electrical and Electronic Engineering from **GIST**, where I worked in the [IIS Lab](https://iis.gist.ac.kr/isp/) with Prof. Euiseok Hwang.
 
-My research is guided by a **central question**:
+My research is guided by a central question:
 
 > *Can we uncover mathematical structure in **representations** to enable tractable and reliable learning, prediction, and control for **dynamical systems under uncertainty**?*
 
-I pursue this question through **theoretically grounded methods**, drawing on tools from **statistical learning theory**.
+I pursue this question through theoretically grounded methods, drawing on tools from **statistical learning theory**.
 
-My current research explores *control-oriented Koopman models*, *latent steering in vision-language-action (VLA) models*, and *novelty detection under distribution shift*.
+My current research explores three directions: control-oriented Koopman models; latent steering in vision-language-action (VLA) models; and novelty detection under distribution shift.
 
 If any of these topics interest you, please feel free to reach out!
