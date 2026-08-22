@@ -43,6 +43,6 @@ My research is guided by a central question:
 
 I approach this question by studying **linear structure** in representations, drawing on ideas from **operator theory** and **statistical learning theory**.
 
-My current research explores three directions through this lens: control-oriented **Koopman** models, the **linear representation hypothesis** for vision-language-action (VLA) models, and **kernel-based** novelty detection.
+My current research explores three directions through this lens: control-oriented **Koopman** models, the **linear representation hypothesis** for vision-language-action (VLA) models, and **kernel method** for novelty detection.
 
 If any of these topics interest you, please feel free to reach out!
