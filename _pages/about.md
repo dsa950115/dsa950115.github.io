@@ -43,6 +43,6 @@ My research is guided by a central question:
 
 I pursue this question through theoretically grounded methods, focusing particularly on **linear structure** in representations and drawing on tools from **statistical learning theory**.
 
-My current research explores three directions: control-oriented Koopman models; latent steering in vision-language-action (VLA) models; and novelty detection under distribution shift.
+My current research explores three directions through this lens: control-oriented Koopman representations, the linear representation hypothesis for vision-language-action (VLA) models, and kernel-based novelty detection under distribution shift.
 
 If any of these topics interest you, please feel free to reach out!
