@@ -39,7 +39,7 @@ Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.
 
 My research is guided by a central question:
 
-> *Can we uncover mathematical structure in representations to enable tractable, reliable prediction and control of dynamical systems under uncertainty?*
+> *Can we uncover mathematical structure in representations to make prediction and control of dynamical systems tractable?*
 
 I pursue this question through theoretically grounded methods, focusing particularly on **linear structure** in representations. My work draws on ideas from **statistical learning theory and operator-theoretic methods**.
 
