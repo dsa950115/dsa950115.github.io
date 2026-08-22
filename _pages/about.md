@@ -37,6 +37,6 @@ latest_posts:
 
 Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.kaist.ac.kr/) under the supervision of Prof. SooJean Han. I received my B.E. in System Management Engineering (Industrial Engineering) from **SKKU**, and my M.S. in Electrical and Electronic Engineering from **GIST**, where I worked in the [IIS Lab](https://iis.gist.ac.kr/isp/) with Prof. Euiseok Hwang.
 
-I develop **structured representations of controlled systems** for tractable learning, prediction, and control. My research is in **statistical learning theory**, particularly kernel methods and high-dimensional statistics.
+> **Can we expose mathematical structure in learned representations so that learning, prediction, and control become tractable and reliable?**
 
-I’m currently interested in control-oriented Koopman models, vision-language-action (VLA) models, and uncertainty quantification.
+I develop **theoretically grounded learning methods for dynamical systems and control**, focusing on **structured representations** and drawing on **statistical learning theory**.
