@@ -41,7 +41,7 @@ My research is guided by a central question:
 
 > *Can we uncover mathematical structure in representations to enable tractable, reliable prediction and control of dynamical systems under uncertainty?*
 
-I pursue this question through theoretically grounded methods, focusing particularly on **linear structure** in representations and drawing on tools from **statistical learning theory**.
+I pursue this question through theoretically grounded methods, focusing particularly on **linear structure** in representations. My work draws on ideas from **statistical learning theory and operator-theoretic methods**.
 
 My current research explores three directions through this lens: control-oriented Koopman models, the linear representation hypothesis for vision-language-action (VLA) models, and kernel-based novelty detection under distribution shift.
 
