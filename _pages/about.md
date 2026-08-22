@@ -41,5 +41,5 @@ My research is guided by a simple question:
 
 > *Can we expose mathematical structure in reresentations for controlled dynamical systems so that learning, prediction, and control become tractable and reliable?*
 
-I develop **theoretically grounded methods for controlled dynamical systems**, focusing on **structured representations** and drawing on tools from **statistical learning theory**.
+I develop theoretically grounded methods for controlled dynamical systems under uncertainty, focusing on **structured representations** and drawing on tools from **statistical learning theory**.
 
