@@ -39,6 +39,6 @@ Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.
 
 My research is guided by a simple question:
 
-> *Can we expose mathematical structure in representations so that learning, prediction, and control become tractable and reliable?*
+> *Can we expose mathematical structure in reresentations for controlled dynamical systems so that learning, prediction, and control become tractable and reliable?*
 
-I develop **theoretically grounded learning methods for dynamical systems and control**, focusing on **structured representations** and drawing on **statistical learning theory**.
+I develop theoretically grounded methods for controlled dynamical systems, targeting learning, prediction, and control through structured representations and tools from statistical learning theory.
