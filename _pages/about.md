@@ -39,7 +39,7 @@ Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.
 
 My research is guided by a central question:
 
-> *Can we identify representations for tractable prediction and control of dynamical systems?*
+> *Can we identify representations that enable tractable prediction and control of dynamical systems?*
 
 I approach this question by studying **linear structure** in representations, drawing on ideas from **operator theory** and **statistical learning theory**.
 
