@@ -41,7 +41,7 @@ My research is guided by a central question:
 
 > *Can we identify representations that enable tractable prediction and control of dynamical systems?*
 
-I approach this question by studying **linear structure** in representations, drawing on ideas from **operator theory**, **statistical learning theory**, and **information geometry**.
+I approach this question by studying **linear structure** in representations, drawing on ideas from **control theory**, **statistical learning theory**, and **information geometry**.
 
 My current research explores three directions through this lens: **Koopman methods** for controlled systems, the **linear representation hypothesis** for robotics foundation models, and **kernel methods** for novelty detection.
 
