@@ -1,6 +1,32 @@
 ---
 ---
 
+@INPROCEEDINGS{mitigating2025,
+  author={Jeong*, Minseok and Lee*, Yechan and Choi, Hyewon and Yang, Jeongyong and Han, SooJean},
+  booktitle={Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)}, 
+  title={Mitigating Overgeneralization in RND via Spectral Target Design}, 
+  year={2026},
+  abbr={In press},
+  selected={true},
+  annotation={* Equal contribution},
+  preview={LAS.png},
+  note={Spotlight},
+  abstract={Random Network Distillation (RND) is a scalable novelty signal for RL based on
+a fixed random target network and a trained predictor. However, it can
+overgeneralize: the predictor extrapolates the random target off the data
+manifold, causing novelty scores to collapse on unfamiliar inputs. This paper
+analyzes this failure through a kernel-theoretic lens. Under a GP target model and
+an NTK-regime predictor, we show that the RND novelty score is a
+cross-kernel residual variance: it is governed jointly by the
+target covariance kernel and the predictor NTK, rather than by
+either one alone. This identifies overgeneralization as spectral under-excitation.
+Motivated by this view, we formulate spectral target design as a principle for
+shaping RND novelty geometry. As a concrete instance, we replace the implicit
+random-network target with a bandwidth-controlled Random Fourier Feature (RFF)
+target, redistributing residual signal toward modes less attenuated by the
+predictor. Experiments on offline D4RL, online Atari, and Fetch manipulation
+benchmarks show improved novelty discrimination and downstream RL performance.}}
+
 @INPROCEEDINGS{koopman123,
   author={Jeong, Minseok and Han, SooJean and Shin, Hyosang},
   booktitle={Proceedings of the Learning for Dynamics and Control Conference (L4DC)}, 
