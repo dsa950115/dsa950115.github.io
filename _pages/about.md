@@ -16,7 +16,7 @@ profile:
     </p>
 
     <p>
-      <a href="https://www.dropbox.com/scl/fi/7pfucyx1tjzrkvg33j5nm/MinseokCV_20260926.pdf?rlkey=7bxj1axhs8wnrq3qr2uph8fng&st=rtm9ft6a&dl=0" target="_blank">
+      <a href="https://www.dropbox.com/scl/fi/dxwdi72hzsq3p7sgun3fx/MinseokCV_20260930.pdf?rlkey=eyedtymk67fkhk2p98z4zdx84&st=l9p9mtme&dl=0" target="_blank">
         <i class="fas fa-file-alt"></i> Download my CV (PDF)
       </a>
     </p>
@@ -43,6 +43,6 @@ My research is guided by a central question:
 
 I approach this question by studying **linear structure** in representations, drawing on ideas from **control theory**, **statistics**, and **geometry**.
 
-My current research explores three directions through this lens: **Koopman methods** for controlled systems, the **linear representation hypothesis** for robotics foundation models, and **kernel methods** for novelty detection.
+Building on this perspective, my current research focuses on representation-based approaches to the interpretability and alignment of robotics foundation models, as well as uncertainty quantification for robotics.
 
 If any of these topics interest you, please feel free to reach out!
