@@ -35,7 +35,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.kaist.ac.kr/), advised by Prof. SooJean Han. I received my B.E. in System Management Engineering (Industrial Engineering) from SKKU and my M.S. in Electrical and Electronic Engineering from GIST, where I worked with Prof. Euiseok Hwang in the [IIS Lab](https://iis.gist.ac.kr/isp/).
+Hi, I am **Minseok Jeong**, a Ph.D. student at the [KAIST ACSS Lab](http://acss.kaist.ac.kr/), advised by Prof. SooJean Han. I received my B.E. in System Management Engineering (Industrial Engineering) from SKKU and my M.S. in Electrical and Electronic Engineering from GIST, where I worked with Prof. Euiseok Hwang.
 
 My research is guided by a central question:
 
@@ -43,6 +43,6 @@ My research is guided by a central question:
 
 I approach this question by studying **linear structure** in representations, drawing on ideas from **control theory**, **statistics**, and **geometry**.
 
-Building on this perspective, my current research focuses on representation-based approaches to the interpretability and alignment of robotics foundation models, as well as uncertainty quantification for robotics.
+Building on this perspective, my current research focuses on the interpretability and alignment of robotics foundation models, as well as uncertainty quantification for robotics.
 
 If any of these topics interest you, please feel free to reach out!
