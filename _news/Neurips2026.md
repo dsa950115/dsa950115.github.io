@@ -7,4 +7,5 @@ related_posts: false
 
 **NeurIPS 2026** 🎉  
 *“Mitigating Overgeneralization in RND via Spectral Target Design”*  
-(Acceptance rate, 25.7%)
+(Acceptance rate: 25.7%)  
+🏅 Selected as a **Top Reviewer** for NeurIPS 2026
