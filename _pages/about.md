@@ -41,8 +41,8 @@ My research is guided by a central question:
 
 > *Can we identify representations that enable tractable prediction and control of dynamical systems?*
 
-I approach this question by studying **linear structure** in representations, drawing on ideas from **control theory**, **statistics**, and **geometry**.
+I approach this question by studying **linear structure** in representations, drawing on ideas from **statistics** and **control theory**.
 
-Building on this perspective, my current research focuses on the interpretability and alignment of robotics foundation models, as well as uncertainty quantification for robotics.
+Building on this perspective, my current research focuses on the **mechanistic interpretability** of robotics foundation models, as well as **uncertainty quantification** for robotics.
 
 If any of these topics interest you, please feel free to reach out!
